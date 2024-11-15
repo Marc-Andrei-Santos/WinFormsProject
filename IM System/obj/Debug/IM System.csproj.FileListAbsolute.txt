@@ -1,0 +1,63 @@
+c:\users\acer\documents\visual studio 2015\Projects\IM System\IM System\bin\Debug\IM System.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\IM System\IM System\bin\Debug\IM System.exe
+c:\users\acer\documents\visual studio 2015\Projects\IM System\IM System\bin\Debug\IM System.pdb
+c:\users\acer\documents\visual studio 2015\Projects\IM System\IM System\obj\Debug\IM System.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\IM System\IM System\obj\Debug\IM_System.Form1.resources
+c:\users\acer\documents\visual studio 2015\Projects\IM System\IM System\obj\Debug\IM_System.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\IM System\IM System\obj\Debug\IM System.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\IM System\IM System\obj\Debug\IM System.exe
+c:\users\acer\documents\visual studio 2015\Projects\IM System\IM System\obj\Debug\IM System.pdb
+C:\Users\acer\documents\visual studio 2015\Projects\IM System\IM System\obj\Debug\IM_System.Form2.resources
+C:\Users\LESLIE JEAN\Documents\Visual Studio 2015\Projects\IM System\IM System\bin\Debug\IM System.exe.config
+C:\Users\LESLIE JEAN\Documents\Visual Studio 2015\Projects\IM System\IM System\obj\Debug\IM System.exe
+C:\Users\LESLIE JEAN\Documents\Visual Studio 2015\Projects\IM System\IM System\obj\Debug\IM System.pdb
+C:\Users\LESLIE JEAN\Documents\Visual Studio 2015\Projects\IM System\IM System\bin\Debug\IM System.exe
+C:\Users\LESLIE JEAN\Documents\Visual Studio 2015\Projects\IM System\IM System\bin\Debug\IM System.pdb
+C:\Users\LESLIE JEAN\Documents\Visual Studio 2015\Projects\IM System\IM System\obj\Debug\IM System.csprojResolveAssemblyReference.cache
+C:\Users\LESLIE JEAN\Documents\Visual Studio 2015\Projects\IM System\IM System\obj\Debug\IM_System.Form1.resources
+C:\Users\LESLIE JEAN\Documents\Visual Studio 2015\Projects\IM System\IM System\obj\Debug\IM_System.Form2.resources
+C:\Users\LESLIE JEAN\Documents\Visual Studio 2015\Projects\IM System\IM System\obj\Debug\IM_System.Properties.Resources.resources
+C:\Users\LESLIE JEAN\Documents\Visual Studio 2015\Projects\IM System\IM System\obj\Debug\IM System.csproj.GenerateResource.Cache
+C:\Users\LESLIE JEAN\Documents\Visual Studio 2015\Projects\IM System\IM System\obj\Debug\IM_System.Form3.resources
+C:\Users\LESLIE JEAN\Documents\Visual Studio 2015\Projects\IM System\IM System\obj\Debug\IM_System.Registration.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\IM System\IM System\obj\Debug\IM_System.Form3.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\IM System\IM System\obj\Debug\IM_System.Registration.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\IM System\IM System\bin\Debug\Database2.mdf
+C:\Users\acer\Documents\Visual Studio 2015\Projects\IM System\IM System\bin\Debug\Database2_log.ldf
+C:\Users\acer\Documents\Visual Studio 2015\Projects\IM System\IM System\obj\Debug\IM_System.UsersForm.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\IM System\IM System\obj\Debug\IM_System.UserModuleForm.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\IM System\IM System\bin\Debug\Database3.mdf
+C:\Users\acer\Documents\Visual Studio 2015\Projects\IM System\IM System\bin\Debug\Database3_log.ldf
+C:\Users\acer\Documents\Visual Studio 2015\Projects\IM System\IM System\obj\Debug\IM_System.Customers.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\IM System\IM System\bin\Debug\CustomerMod.mdf
+C:\Users\acer\Documents\Visual Studio 2015\Projects\IM System\IM System\bin\Debug\CustomerMod_log.ldf
+C:\Users\acer\Documents\Visual Studio 2015\Projects\IM System\IM System\obj\Debug\IM_System.CustomerModule.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\bin\Debug\Customer_db.mdf
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\bin\Debug\Customer_db_log.ldf
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\bin\Debug\Database2.mdf
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\bin\Debug\Database2_log.ldf
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\bin\Debug\Database3.mdf
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\bin\Debug\Database3_log.ldf
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\bin\Debug\IM System.exe.config
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\bin\Debug\IM System.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\bin\Debug\IM System.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM_System.Accounts.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM_System.CustomerModule.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM_System.Customers.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM_System.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM_System.Form2.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM_System.Form3.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM_System.Products.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM_System.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM_System.Registration.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM_System.UserModuleForm.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM System.csproj.GenerateResource.Cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM System.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM System.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM_System.ProductModule.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM_System.Orders.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM_System.Sales.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM_System.SalesModule.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM_System.OrderForm.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM System.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\FINAL PROJECT\IM System\obj\Debug\IM System.csproj.CoreCompileInputs.cache
